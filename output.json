@@ -1,0 +1,1574 @@
+{
+  "name": "ReacType",
+  "children": [
+    {
+      "name": "CHANGE_LOG.md",
+      "children": [
+        {
+          "name": "CODE_OF_CONDUCT.md",
+          "children": [
+            {
+              "name": "Dockerfile",
+              "children": [
+                {
+                  "name": "Dockerrun.aws.json",
+                  "children": [
+                    {
+                      "name": "LICENSE.md",
+                      "children": [
+                        {
+                          "name": "Procfile",
+                          "children": [
+                            {
+                              "name": "README.md"
+                            },
+                            {
+                              "name": "__tests__",
+                              "children": [
+                                {
+                                  "name": "BottomTabs.test.tsx",
+                                  "children": [
+                                    {
+                                      "name": "DragAndDrop.test.tsx",
+                                      "children": [
+                                        {
+                                          "name": "NavBar.test.tsx",
+                                          "children": [
+                                            {
+                                              "name": "componentReducer.test.ts"
+                                            },
+                                            {
+                                              "name": "contextReducer.test.js"
+                                            },
+                                            {
+                                              "name": "gql.projects.test.ts"
+                                            },
+                                            {
+                                              "name": "helper.test.tsx"
+                                            },
+                                            {
+                                              "name": "marketplace.test.tsx"
+                                            },
+                                            {
+                                              "name": "playwright",
+                                              "children": [
+                                                {
+                                                  "name": "example.spec.ts"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "projects.test.ts"
+                                            },
+                                            {
+                                              "name": "server.test.tsx"
+                                            },
+                                            {
+                                              "name": "signIn.test.tsx"
+                                            },
+                                            {
+                                              "name": "spec.ts"
+                                            },
+                                            {
+                                              "name": "stateManagementReducer.test.js"
+                                            },
+                                            {
+                                              "name": "tree.test.tsx"
+                                            },
+                                            {
+                                              "name": "userAuth.test.ts"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "amplify",
+                              "children": [
+                                {
+                                  "name": "README.md",
+                                  "children": [
+                                    {
+                                      "name": "backend",
+                                      "children": [
+                                        {
+                                          "name": "auth",
+                                          "children": [
+                                            {
+                                              "name": "reactype24e8d371",
+                                              "children": [
+                                                {
+                                                  "name": "cli-inputs.json",
+                                                  "children": [
+                                                    {
+                                                      "name": "backend-config.json",
+                                                      "children": [
+                                                        {
+                                                          "name": "storage",
+                                                          "children": [
+                                                            {
+                                                              "name": "ReacTypeMktImg",
+                                                              "children": [
+                                                                {
+                                                                  "name": "cli-inputs.json"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "tags.json"
+                                                            },
+                                                            {
+                                                              "name": "types",
+                                                              "children": [
+                                                                {
+                                                                  "name": "amplify-dependent-resources-ref.d.ts"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "cli.json"
+                                            },
+                                            {
+                                              "name": "hooks",
+                                              "children": [
+                                                {
+                                                  "name": "README.md"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "app",
+                              "children": [
+                                {
+                                  "name": "src",
+                                  "children": [
+                                    {
+                                      "name": "Dashboard",
+                                      "children": [
+                                        {
+                                          "name": "NavbarDash.tsx",
+                                          "children": [
+                                            {
+                                              "name": "Project.tsx",
+                                              "children": [
+                                                {
+                                                  "name": "ProjectContainer.tsx",
+                                                  "children": [
+                                                    {
+                                                      "name": "gqlStrings.ts",
+                                                      "children": [
+                                                        {
+                                                          "name": "styles.css",
+                                                          "children": [
+                                                            {
+                                                              "name": "components",
+                                                              "children": [
+                                                                {
+                                                                  "name": "App.tsx",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "ContextAPIManager",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "AssignTab",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "AssignContainer.tsx",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "components",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "ComponentDropDrown.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "ComponentTable.tsx",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "ContextDropDown.tsx",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "ContextTable.tsx"
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "ContextManager.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "CreateTab",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "CreateContainer.tsx",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "components",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "AddContextForm.tsx",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "AddDataForm.tsx",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "DataTable.tsx"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "DisplayTab",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "DisplayContainer.tsx"
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "StateManagement",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "CreateTab",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "CreateContainer.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "components",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "StatePropsPanel.tsx",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "TableParentProps.tsx",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "TablePassedInProps.tsx",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "TableStateProps.tsx"
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "DisplayTab",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "DataTable.tsx",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "DisplayContainer.tsx",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Tree.tsx",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "useResizeObserver.ts"
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "StateManagement.tsx"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "bottom",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "BottomPanel.tsx",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "BottomTabs.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "ChatRoom.tsx",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "CodePreview.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "CreationPanel.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "StylesEditor.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "UseStateModal.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "VideoMeeting.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "VideoMeetingControl.tsx"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "form",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Selector.tsx"
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "left",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "ComponentDrag.tsx",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "ComponentsContainer.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "ContentArea.tsx",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "DragDropPanel.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "ElementsContainer.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "HTMLItem.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "HTMLPanel.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "ProfilePage.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "RoomsContainer.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "Settings.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "Sidebar.tsx"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "login",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "FBPassWord.tsx",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "SignIn.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "SignUp.tsx"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "main",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "AddLink.tsx",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "AddRoute.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Arrow.tsx",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Canvas.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "CanvasContainer.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "DeleteButton.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "DemoRender.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "DirectChildComponent.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "DirectChildHTML.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "DirectChildHTMLNestable.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "IndirectChild.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "RouteLink.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "SeparatorChild.tsx"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "marketplace",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "MarketplaceCard.tsx",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "MarketplaceCardContainer.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Searchbar.tsx"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "right",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "ComponentPanel.tsx",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "ComponentPanelItem.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "ComponentPanelRoutingItem.tsx",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "DeleteProjects.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "ExportButton.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "LoginButton.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "OpenProjects.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "ProjectManager.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "SaveProjectButton.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "SimpleModal.tsx"
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "createModal.tsx"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "top",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "NavBar.tsx",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "NavBarButtons.tsx",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "NewExportButton.tsx",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "PublishModal.tsx"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "constants",
+                                                              "children": [
+                                                                {
+                                                                  "name": "ErrorMessages.ts",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "ItemTypes.ts",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Styling.ts"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "containers",
+                                                              "children": [
+                                                                {
+                                                                  "name": "AppContainer.tsx",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "CustomizationPanel.tsx",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "LeftContainer.tsx",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "MainContainer.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "MarketplaceContainer.tsx"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "helperFunctions",
+                                                              "children": [
+                                                                {
+                                                                  "name": "auth.ts",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "changePositionValidation.ts",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "cloneDeep.ts",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "combineStyles.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "componentNestValidation.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "cssRefresh.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "esbuildService.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "generateCode.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "manageSeparators.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "projectGetSaveDel.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "randomPassword.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "renderChildren.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "socket.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "zipFiles.ts"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "index.tsx"
+                                                            },
+                                                            {
+                                                              "name": "interfaces",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Interfaces.ts",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "declarations.d.ts",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "global.ts"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "plugins",
+                                                              "children": [
+                                                                {
+                                                                  "name": "fetch-plugin.ts",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "unpkg-path-plugin.ts"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "public",
+                                                              "children": [
+                                                                {
+                                                                  "name": "ezgif.com-gif-maker.gif",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "favicon-original.png",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "icons",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "mac",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "icon.icns",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "png",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "128x128.png",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "24x24.png",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "256x256.png",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "32x32.png",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "48x48.png",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "512x512.png"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "64x64.png"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "96x96.png"
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "win",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "dark-mode.ico",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "favIcon.ico",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "icon-original.ico",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "image.png"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "light-mode.ico"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "logo-original.png"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "logo-two.png"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "logo.png"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "reactTypeV20.ico"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "scrollup.png"
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "white-reactype-logo-1.psd"
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "index-prod.ejs"
+                                                                            },
+                                                                            {
+                                                                              "name": "index.ejs"
+                                                                            },
+                                                                            {
+                                                                              "name": "styles",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "globalDefaultStyles.ts",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "style.css",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "theme.ts"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "redux",
+                                                              "children": [
+                                                                {
+                                                                  "name": "HTMLTypes.ts",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "reducers",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "rootReducer.ts",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "slice",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "appStateSlice.ts",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "codePreviewSlice.ts",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "contextReducer.ts",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "roomSlice.ts",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "styleSlice.ts"
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "store.ts"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "serverConfig.js"
+                                                            },
+                                                            {
+                                                              "name": "tree",
+                                                              "children": [
+                                                                {
+                                                                  "name": "TreeChart.tsx",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "useResizeObserver.ts"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "tutorial",
+                                                              "children": [
+                                                                {
+                                                                  "name": "CSSEditor.tsx",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Canvas.tsx",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "CodePreview.tsx",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "ComponentTree.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "Customization.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "HtmlElements.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "KeyboardShortcuts.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "Pages.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "ReusableComponents.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "RouteLinks.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "States.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "Styling.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "Tutorial.tsx"
+                                                                            },
+                                                                            {
+                                                                              "name": "TutorialPage.tsx"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "utils",
+                                                              "children": [
+                                                                {
+                                                                  "name": "createApplication.util.ts",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "createFiles.util.ts",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "createGatsbyApp.util.ts",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "createGatsbyFiles.util.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "createNextApp.util.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "createNextFiles.util.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "createNonce.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "createTestSuite.util.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "createTestSuiteClassic.util.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "createTestSuiteNext.util.ts"
+                                                                            },
+                                                                            {
+                                                                              "name": "exportProject.util.ts"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "config.js"
+                            },
+                            {
+                              "name": "contributors.md"
+                            },
+                            {
+                              "name": "electron-builder.yml"
+                            },
+                            {
+                              "name": "index.html"
+                            },
+                            {
+                              "name": "mockData.ts"
+                            },
+                            {
+                              "name": "package-lock.json"
+                            },
+                            {
+                              "name": "package.json"
+                            },
+                            {
+                              "name": "playwright.config.ts"
+                            },
+                            {
+                              "name": "prettierrc.json"
+                            },
+                            {
+                              "name": "reactypeserverlogo.png"
+                            },
+                            {
+                              "name": "resources",
+                              "children": [
+                                {
+                                  "name": "ReadMe.gif",
+                                  "children": [
+                                    {
+                                      "name": "annotations_tutorial_images",
+                                      "children": [
+                                        {
+                                          "name": "Annotation.gif",
+                                          "children": [
+                                            {
+                                              "name": "NoteButton.gif"
+                                            },
+                                            {
+                                              "name": "canvasDemoV20.gif"
+                                            },
+                                            {
+                                              "name": "canvas_tutorial_images",
+                                              "children": [
+                                                {
+                                                  "name": "canvas1.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "drag1.gif",
+                                                      "children": [
+                                                        {
+                                                          "name": "drag1.png",
+                                                          "children": [
+                                                            {
+                                                              "name": "undoRedo.gif"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "code_preview_images",
+                                              "children": [
+                                                {
+                                                  "name": "CodePreview.png"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "csseditor_tutorial_images",
+                                              "children": [
+                                                {
+                                                  "name": "CSSEditorTab.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "CopyPasteCSS.gif",
+                                                      "children": [
+                                                        {
+                                                          "name": "DirectCSSEdit.gif"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "customizing_elements_images",
+                                              "children": [
+                                                {
+                                                  "name": "BackgroundColor.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "CSS.png",
+                                                      "children": [
+                                                        {
+                                                          "name": "CodeChange.png",
+                                                          "children": [
+                                                            {
+                                                              "name": "Display.png"
+                                                            },
+                                                            {
+                                                              "name": "Flex.png"
+                                                            },
+                                                            {
+                                                              "name": "Height.png"
+                                                            },
+                                                            {
+                                                              "name": "Lighting.png"
+                                                            },
+                                                            {
+                                                              "name": "Resize.gif"
+                                                            },
+                                                            {
+                                                              "name": "Resize.png"
+                                                            },
+                                                            {
+                                                              "name": "Theme.png"
+                                                            },
+                                                            {
+                                                              "name": "Width.png"
+                                                            },
+                                                            {
+                                                              "name": "linkState.png"
+                                                            },
+                                                            {
+                                                              "name": "text.gif"
+                                                            },
+                                                            {
+                                                              "name": "textState.png"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "demo.gif"
+                                            },
+                                            {
+                                              "name": "demo19.gif"
+                                            },
+                                            {
+                                              "name": "export_tests_images",
+                                              "children": [
+                                                {
+                                                  "name": "export-new.gif"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "html_elements_tutorial_images",
+                                              "children": [
+                                                {
+                                                  "name": "codeSnippet.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "createNew.png",
+                                                      "children": [
+                                                        {
+                                                          "name": "defaultElements.png",
+                                                          "children": [
+                                                            {
+                                                              "name": "newTag.png"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "icon.icns"
+                                            },
+                                            {
+                                              "name": "icon.ico"
+                                            },
+                                            {
+                                              "name": "icon.png"
+                                            },
+                                            {
+                                              "name": "marketplace_images",
+                                              "children": [
+                                                {
+                                                  "name": "marketplace_avatar.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "marketplace_image.png"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "pages_images",
+                                              "children": [
+                                                {
+                                                  "name": "AddElements.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "DeletePage.png",
+                                                      "children": [
+                                                        {
+                                                          "name": "Pages.png",
+                                                          "children": [
+                                                            {
+                                                              "name": "Pages1.png"
+                                                            },
+                                                            {
+                                                              "name": "PagesPanel.png"
+                                                            },
+                                                            {
+                                                              "name": "PagesSwapping.gif"
+                                                            },
+                                                            {
+                                                              "name": "Toggle.png"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "reactype17.png"
+                                            },
+                                            {
+                                              "name": "reactype19.png"
+                                            },
+                                            {
+                                              "name": "readme.png"
+                                            },
+                                            {
+                                              "name": "reusable_components_tutorial_images",
+                                              "children": [
+                                                {
+                                                  "name": "reusablecomponents1.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "reusablecomponents2.png",
+                                                      "children": [
+                                                        {
+                                                          "name": "reusablecomponents3.png"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "route_links_tutorial_images",
+                                              "children": [
+                                                {
+                                                  "name": "links-canvas.PNG",
+                                                  "children": [
+                                                    {
+                                                      "name": "links1.PNG",
+                                                      "children": [
+                                                        {
+                                                          "name": "links2.PNG",
+                                                          "children": [
+                                                            {
+                                                              "name": "links3.PNG"
+                                                            },
+                                                            {
+                                                              "name": "links4.PNG"
+                                                            },
+                                                            {
+                                                              "name": "links5.PNG"
+                                                            },
+                                                            {
+                                                              "name": "links6.PNG"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "state_tutorial_images",
+                                              "children": [
+                                                {
+                                                  "name": "CodePreview.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "CodePreview2.png",
+                                                      "children": [
+                                                        {
+                                                          "name": "CreateState.png",
+                                                          "children": [
+                                                            {
+                                                              "name": "DeleteState.gif"
+                                                            },
+                                                            {
+                                                              "name": "StateTable.png"
+                                                            },
+                                                            {
+                                                              "name": "delete.gif"
+                                                            },
+                                                            {
+                                                              "name": "display.gif"
+                                                            },
+                                                            {
+                                                              "name": "fullStateManageTab.png"
+                                                            },
+                                                            {
+                                                              "name": "table1.gif"
+                                                            },
+                                                            {
+                                                              "name": "table3.gif"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "tree_tutorial_images",
+                                              "children": [
+                                                {
+                                                  "name": "tree1.png",
+                                                  "children": [
+                                                    {
+                                                      "name": "tree2.png",
+                                                      "children": [
+                                                        {
+                                                          "name": "tree3.png",
+                                                          "children": [
+                                                            {
+                                                              "name": "tree4.png"
+                                                            },
+                                                            {
+                                                              "name": "tree5.png"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "v19 collab room.png"
+                                            },
+                                            {
+                                              "name": "v19filestructure.png"
+                                            },
+                                            {
+                                              "name": "v20 collab room.png"
+                                            },
+                                            {
+                                              "name": "v20 empty canvas.png"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "server",
+                              "children": [
+                                {
+                                  "name": "README.md",
+                                  "children": [
+                                    {
+                                      "name": "assets",
+                                      "children": [
+                                        {
+                                          "name": "renderDemo.css",
+                                          "children": [
+                                            {
+                                              "name": "controllers",
+                                              "children": [
+                                                {
+                                                  "name": "cookieController.ts",
+                                                  "children": [
+                                                    {
+                                                      "name": "marketplaceController.ts",
+                                                      "children": [
+                                                        {
+                                                          "name": "projectController.ts",
+                                                          "children": [
+                                                            {
+                                                              "name": "sessionController.ts"
+                                                            },
+                                                            {
+                                                              "name": "userController.ts"
+                                                            },
+                                                            {
+                                                              "name": "userStylesController.ts"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "graphQL",
+                                              "children": [
+                                                {
+                                                  "name": "resolvers",
+                                                  "children": [
+                                                    {
+                                                      "name": "mutation.ts",
+                                                      "children": [
+                                                        {
+                                                          "name": "query.ts",
+                                                          "children": [
+                                                            {
+                                                              "name": "schema",
+                                                              "children": [
+                                                                {
+                                                                  "name": "typeDefs.ts"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "interfaces.ts"
+                                            },
+                                            {
+                                              "name": "models",
+                                              "children": [
+                                                {
+                                                  "name": "Oauth-model.ts",
+                                                  "children": [
+                                                    {
+                                                      "name": "reactypeModels.ts"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "routers",
+                                              "children": [
+                                                {
+                                                  "name": "auth.ts",
+                                                  "children": [
+                                                    {
+                                                      "name": "passport-setup.ts",
+                                                      "children": [
+                                                        {
+                                                          "name": "stylesRouter.ts"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "server.ts"
+                                            },
+                                            {
+                                              "name": "tsconfig.json"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "src",
+                              "children": [
+                                {
+                                  "name": "custom-aws-exports.js"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "tsconfig.json"
+                            },
+                            {
+                              "name": "tslint.json"
+                            },
+                            {
+                              "name": "vite.config.ts"
+                            },
+                            {
+                              "name": "webpack.config.js"
+                            },
+                            {
+                              "name": "webpack.development.js"
+                            },
+                            {
+                              "name": "webpack.production.js"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "package-lock.json"
+            },
+            {
+              "name": "project_tree.txt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es6",                // Set the JavaScript version for output files
+    "module": "commonjs",           // Specify the module code generation method
+    "strict": true,                 // Enable all strict type-checking options
+    "esModuleInterop": true,        // Enables ES6-compatible imports for commonjs modules
+    "skipLibCheck": true,           // Skip type checking of all declaration files (*.d.ts)
+    "forceConsistentCasingInFileNames": true,  // Disallow inconsistently-cased references to the same file.
+    "outDir": "./files",             // Redirect output structure to the files folder
+    "rootDir": "./",             // Specify the root directory of input files
+    "removeComments": true          // Remove comments from the output
+  },
+  "include": [
+    "*.ts"                      // Include all files in the src directory
+  ],
+  "exclude": [
+    "node_modules",                 // Exclude the node_modules directory
+    "**/*.test.ts"                  // Exclude test files
+  ]
+}
